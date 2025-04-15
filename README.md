@@ -7,6 +7,14 @@ O projeto explora a ideia divertida de imaginar como seria um cabo de guerra ent
 
 ![Tela do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CaboDeGuerra/blob/main/results/game.gif)
 
+## Funcionalidades Principais:
+
+-   Selecionar 3 campeões da lista para formar um time.
+-   Gerar um time adversário aleatório.
+-   Calcular a força total de cada time.
+-   Exibir o resultado da batalha (vitória, derrota ou empate).
+-   Resetar a seleção do time.
+
 ## Tecnologias utilizadas
 - HTML
 - CSS
@@ -39,7 +47,9 @@ O projeto utiliza a API do League of Legends para buscar dinamicamente informaç
 ```
 
 ## Status
-Finalizado primeira etapa.
+
+✅ Concluído primeira etapa
+
 > Melhorias a serem incluídas:
 > - Aprimoramentos na interface do usuário,
 > - Adição de mais detalhes sobre os campeões e
