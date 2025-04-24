@@ -18,7 +18,6 @@ function getImageUrl(id) {
     return `https://ddragon.leagueoflegends.com/cdn/${version}/img/champion/${id}.png`;
 }
 
-
 function createChampionCardList(displayName, imageUrl) {
     const card = document.createElement("div");
     card.className = "champion-card";
@@ -170,5 +169,5 @@ function clearSelect() {
     renderTeam([], "myTeamComplete");
 
     const resultText = document.querySelector(".result-game p");
-    if (resultText) resultText.innerHTML = "";
+    if (resultText) resultText.innerHTML = "Escolha seu time de 3 campeões";
 }
