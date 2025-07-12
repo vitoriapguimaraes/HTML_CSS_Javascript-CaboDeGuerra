@@ -2,9 +2,9 @@
 
 > Jogo web interativo que simula um cabo de guerra entre campeões do League of Legends. Monte seu time de 3 campeões, cada um com atributos de força, desafie um time adversário aleatório e descubra quem vence a disputa!
 
-![Demonstração do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CaboDeGuerra/blob/main/results/game.gif)
-
 [![Acesse: Cabo de Guerra](https://img.shields.io/badge/-Acesse:%20Cabo%20de%20Guerra-000000?style=for-the-badge)](https://vitoriapguimaraes.github.io/HTML_CSS_Javascript-CaboDeGuerra/)
+
+![Demonstração do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-CaboDeGuerra/blob/main/results/game.gif)
 
 ## Funcionalidades Principais
 
